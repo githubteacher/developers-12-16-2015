@@ -2,5 +2,5 @@
 
 - ** Name:** John Panelli
 - ** Occupation:** Architect
-- ** Location:** Mt View
+- ** Location:** Mt View, CA, USA
 
