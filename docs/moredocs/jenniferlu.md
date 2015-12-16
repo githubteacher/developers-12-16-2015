@@ -1,4 +1,4 @@
-# Jennifer Lu Bio
+# Jennifer Lu bio
 
 - **Name:** Jennfier
 - **Occupation:** Engineer
