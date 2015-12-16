@@ -1,0 +1,34 @@
+
+https://github.com/githubteacher/developers-12-16-2015
+
+https://guides.github.com/features/mastering-markdown/
+
+https://github.com/githubteacher/developers-12-16-2015/issues/36
+
+https://help.github.com/articles/closing-issues-via-commit-messages/
+
+https://training.github.com/kit/courses/github-for-developers.html
+
+https://help.github.com/articles/associating-text-editors-with-git/  
+
+  495  git --version
+  496  git config --list
+  497  git config --global user.name "Park, Red"
+  498  git config --global user.email "red_park@intuit.com"
+  499  git config --global core.editor "atom --wait"
+  500  git config --global core.autocrlf input
+  501  git config --global push.default simple
+  502  cd projects/
+  503  mkdir gitlcass
+  504  mv gitlcass
+  505  mv gitlcass gitclass
+  506  cd gitclass/
+  507  ls
+  508  git clone https://github.com/githubteacher/developers-12-16-2015.git
+  509  l
+  510  ls
+  511  cd developers-12-16-2015/
+  512  git status
+  513  git branch
+  514  git branch --all
+  515  git checkout redjpark-morebio
