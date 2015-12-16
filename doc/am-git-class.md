@@ -3,3 +3,4 @@
 - **Name:** GitHub Student
 - **Occupation:** Student
 - **Location:** San Francisco
+- **Favorite Vacation Spot:** Hawaii
