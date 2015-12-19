@@ -3,3 +3,4 @@
 - **Name:** dlee01
 - **Occupation:** drummer
 - **Location:** Mountain View
+- **Favorite Vacation Spot:** home
