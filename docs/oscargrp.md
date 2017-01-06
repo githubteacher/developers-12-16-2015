@@ -2,4 +2,4 @@
 
 - **Name:** Oscar
 - **Occupation:** Engineer
-- **Location:** California
+- **Location:** San Francisco, California
